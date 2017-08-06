@@ -11,7 +11,7 @@ public class Jenkinstest {
 		
 		System.out.println("test");
 		
-		//Assert.assertEquals(10,11);
+		Assert.assertEquals(10,11);
 		
 		Assert.assertEquals(11, 11);
 	}
